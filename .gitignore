@@ -1,0 +1,47 @@
+
+# EECS 485 All Projects
+submit.tar.gz
+submit.tar.bz2
+starter_files.tar.gz
+starter_files.tar.bz2
+.vscode/
+
+# EECS 485 Project 1
+*.log
+*insta485/html/
+*hello/html/
+*hello_css/html/
+
+# EECS 485 Project 2
+*.db
+var/
+
+# EECS 485 Project 3
+node_modules/
+cookies.txt
+bundle.js
+.eslintrc.js
+session.json 
+cookies.txt
+
+# EECS 485 Project 4
+tmp
+output
+
+# EECS 485 Project 5
+input
+output*
+total_document_count.txt
+*/hadoop/inverted_index/inverted_index.txt
+
+# Python
+*.pyc
+__pycache__/
+*.egg-info*
+dist/
+env/
+tests/__pycache__/
+
+#VSCODE
+VERSION
+
